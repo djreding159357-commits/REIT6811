@@ -15,3 +15,7 @@ This repository contains a small exercise in recording changes and synchronising
 ## Local update for push practice
 
 Added on the local computer: preserve raw data and document each processing step.
+
+## Online update for pull practice
+
+Added on GitHub: check that an online edit appears in the local file after pulling.
